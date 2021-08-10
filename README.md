@@ -1,4 +1,4 @@
-# auto solve google recaptcha
+# auto solve google recaptcha v2
 
 ## Usage
 Using python selenium.
